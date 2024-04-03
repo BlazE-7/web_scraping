@@ -1,2 +1,2 @@
 # web_scraping
-This is my first web scraping project. i scraped data of company's like company's name, about company, reviews of company, no. of jobs, etc.  
+In my inaugural web scraping project, I delved into the realm of data extraction from online sources. With Python's BeautifulSoup library as my guide, I navigated through the intricacies of HTML structure, harvesting targeted information from websites. This venture marked the inception of my journey into the dynamic world of web scraping, igniting a passion for data exploration and analysis.
